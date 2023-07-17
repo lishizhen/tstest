@@ -1,0 +1,48 @@
+
+# dependencies
+node_modules
+
+# production
+/dist
+/.vscode
+/build
+# misc
+.DS_Store
+npm-debug.log*
+yarn-error.log
+build
+/coverage
+.idea
+yarn.lock
+package-lock.json
+*bak
+.vscode
+.temp/**
+.eslintcache
+.CodeCounter
+.eslintcache
+
+# dependencies
+node_modules
+# dependencies
+**/node_modules
+
+# production
+/dist
+/.vscode
+/build
+# misc
+.DS_Store
+npm-debug.log*
+yarn-error.log
+build
+/coverage
+.idea
+yarn.lock
+# package-lock.json
+*bak
+.vscode
+.temp/**
+.eslintcache
+.CodeCounter
+.eslintcache
